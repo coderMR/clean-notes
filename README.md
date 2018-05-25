@@ -1,2 +1,11 @@
-# clean-notes
-Clean notes in files, keep the code clean
+#清除注释
+
+顾名思义，清除文件中的注释。使release版本中的代码保持清爽。
+目前仅支持python文件，其他语言等有空了再后续开发...
+
+##用法:
+1. 打开终端
+2. 运行del-notes.py脚本
+3. 输入要清除的文件路径
+
+
